@@ -64,7 +64,7 @@ a {
 
 @media all and (max-width: 400px) {
   .nav a {
-    padding: 1.8rem 0.5rem;
+    padding: 1.8rem 0.9rem;
   }
 
   .nav {
@@ -78,10 +78,10 @@ a {
 
 @media all and (max-width: 300px) {
   .nav a {
+    display: flex;
     padding: 1.8rem 0.5rem;
   }
 
-}
 
 /* @media all and (max-width: 600px) {
   .nav {

@@ -28,6 +28,7 @@ a {
   list-style: none;
   margin-right: 1rem;
   align-items: center;
+  text-align: center;
 }
 
 .nav a {
@@ -81,6 +82,10 @@ a {
     padding: 1.8rem 0.5rem;
   }
 
+  .kont {
+    width: 100%;
+
+  }
 }
 
 /* @media all and (max-width: 600px) {

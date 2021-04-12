@@ -81,6 +81,13 @@ a {
     padding: 1.8rem 0.5rem;
   }
 
+  .kont {
+    width: 100%;
+  }
+
+  .kont2 {
+    padding-left: 5rem;
+  }
 }
 
 /* @media all and (max-width: 600px) {

@@ -31,7 +31,7 @@ a {
 }
 
 .nav a {
-  text-decoration: none;
+  text-decoration: non;
   display: flex;
   padding: 1.8rem 1rem;
 }
@@ -81,6 +81,10 @@ a {
     padding: 1.8rem 0.5rem;
   }
 
+  .kont {
+    width: 100%;
+
+  }
 }
 
 /* @media all and (max-width: 600px) {

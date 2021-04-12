@@ -41,7 +41,7 @@ a {
 }
 
 .nav-section {
-  display: flex;
+  display: fle;
   flex-direction: row-reverse;
 }
 
@@ -81,6 +81,10 @@ a {
     padding: 1.8rem 0.5rem;
   }
 
+  .kont {
+    width: 100%;
+
+  }
 }
 
 /* @media all and (max-width: 600px) {

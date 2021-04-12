@@ -81,6 +81,9 @@ a {
     padding: 1.8rem 0.5rem;
   }
 
+  .nav {
+    flex-direction: column;
+  }
 }
 
 /* @media all and (max-width: 600px) {

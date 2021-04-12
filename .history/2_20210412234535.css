@@ -64,6 +64,8 @@ a {
 
 @media all and (max-width: 400px) {
   .nav a {
+    text-decoration: none;
+    display: flex;
     padding: 1.8rem 0.5rem;
   }
 
@@ -76,12 +78,8 @@ a {
 }
 }
 
-@media all and (max-width: 300px) {
-  .nav a {
-    padding: 1.8rem 0.5rem;
-  }
 
-}
+
 
 /* @media all and (max-width: 600px) {
   .nav {
