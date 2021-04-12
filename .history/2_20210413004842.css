@@ -28,7 +28,9 @@ a {
   list-style: none;
   margin-right: 1rem;
   align-items: center;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.925);
+  position: fixed;
+  border-radius: 10px;
 }
 
 .nav a {
@@ -49,6 +51,9 @@ a {
 .logo {
   margin-left: 1rem;
   flex-grow: 1; /* element logo został rozszerzony o pozostałą wielkość */
+  position: fixed;
+  left: ;
+
 
 }
 

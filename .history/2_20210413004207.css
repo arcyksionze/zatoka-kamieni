@@ -28,7 +28,6 @@ a {
   list-style: none;
   margin-right: 1rem;
   align-items: center;
-  background-color: white;
 }
 
 .nav a {
@@ -44,6 +43,7 @@ a {
 .nav-section {
   display: flex;
   flex-direction: row-reverse;
+  position: fixed;
 }
 
 .logo {
