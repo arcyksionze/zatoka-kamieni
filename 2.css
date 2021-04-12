@@ -24,6 +24,7 @@ a {
 .nav {
   display: flex;
   justify-content: flex-end;
+  flex-wrap: wrap;
   list-style: none;
   margin-right: 1rem;
   align-items: center;
@@ -47,6 +48,7 @@ a {
 
 .logo {
   margin-left: 1rem;
+
 }
 
 .naglowek {
@@ -60,10 +62,8 @@ a {
   padding: 1rem;
 }
 
- @media all and (max-width: 300px) {
-  .nav {
-    justify-content: space-around;
-  }
+ @media all and (max-width: 400px) {
+ 
 }
 
 /* @media all and (max-width: 600px) {
