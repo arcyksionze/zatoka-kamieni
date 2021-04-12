@@ -2,6 +2,7 @@
 
 body {
   font-size: 10px;
+  font-family: Merriweather;
 }
 
 h1 {
@@ -11,6 +12,12 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
+  font-family: Open Sans;
+
+}
+
+a {
+  font-size: 0.7rem;
 }
 
 .naglowek {
