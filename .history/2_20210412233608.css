@@ -43,11 +43,11 @@ a {
 .nav-section {
   display: flex;
   flex-direction: row-reverse;
+  flex-grow: 1;
 }
 
 .logo {
   margin-left: 1rem;
-  flex-grow: 1;
 
 }
 
