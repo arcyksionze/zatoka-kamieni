@@ -32,7 +32,7 @@ a {
 .nav a {
   text-decoration: none;
   display: flex;
-  padding: 1rem;
+  padding: 1.8rem 1rem;
 }
 
 .nav a:hover {
