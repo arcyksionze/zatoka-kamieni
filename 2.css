@@ -32,11 +32,11 @@ a {
 .nav a {
   text-decoration: none;
   display: flex;
-  padding: 1em;
+  padding: 1rem;
 }
 
 .nav a:hover {
-  background: #77a3d4;
+  background: #caccce;
 }
 
 .nav-section {
