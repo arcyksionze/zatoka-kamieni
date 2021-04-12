@@ -3,11 +3,12 @@
 body {
   font-size: 10px;
   font-family: Merriweather;
+  color: #043a56;
 }
 
 h1 {
   font-size: 2rem;
-  color: white;
+  font-family: 'DM Serif Text', serif;
 }
 
 h2 {
