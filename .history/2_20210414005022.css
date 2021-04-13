@@ -83,7 +83,7 @@ a {
   padding: 1rem;
   letter-spacing: 0.2rem;
   line-height: 1.3rem;
-  color: rgb(118, 124, 206);
+  color: white;
 }
 
 @media all and (max-width: 400px) {

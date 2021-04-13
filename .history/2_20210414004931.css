@@ -78,12 +78,11 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgb(5, 5, 5);
+  background-color: rgba(0, 0, 0, 0.829);
   font-size: 0.8rem;
   padding: 1rem;
   letter-spacing: 0.2rem;
   line-height: 1.3rem;
-  color: rgb(118, 124, 206);
 }
 
 @media all and (max-width: 400px) {
