@@ -122,7 +122,9 @@ a {
   }
 
   .stop {
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    tex
 
   h1 {
     font-size: 1.8rem;
