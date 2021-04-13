@@ -78,11 +78,9 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: black;
+  background-color: yellow;
   font-size: 0.8rem;
-  padding: 1rem;
-  letter-spacing: 0.2rem;
-  line-height: 1.3rem;
+  padding: ;
 }
 
 @media all and (max-width: 400px) {
