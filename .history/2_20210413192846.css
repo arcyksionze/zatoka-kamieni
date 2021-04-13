@@ -4,9 +4,9 @@ body {
   font-size: 10px;
   font-family: Merriweather;
   color: #043a56;
-
-
-
+  display: flex;
+  flex-direction: column;
+  ju
 }
 
 h1 {
@@ -36,6 +36,7 @@ a {
 
 .nav a {
   text-decoration: none;
+  display: flex;
   padding: 1.8rem 1rem;
 }
 
@@ -54,17 +55,8 @@ a {
 
 }
 
-.calosc {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  width: 100vw;
-  height: 88vh;
-  background-color: thistle;
-}
-
-
 .naglowek {
+  justify-content: center;
   text-align: center;
   background: grey;
   line-height: 2.5rem;
@@ -97,18 +89,9 @@ a {
 }
 }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 300px) {
   .nav a {
     padding: 1.8rem 0.5rem;
-  }
-
-  .calosc {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 100vw;
-    height: 84vh;
-    background-color: thistle;
   }
 
 }

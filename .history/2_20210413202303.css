@@ -59,7 +59,7 @@ a {
   flex-direction: column;
   justify-content: space-between;
   width: 100vw;
-  height: 88vh;
+  height: 89vh;
   background-color: thistle;
 }
 
@@ -97,18 +97,9 @@ a {
 }
 }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 300px) {
   .nav a {
     padding: 1.8rem 0.5rem;
-  }
-
-  .calosc {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 100vw;
-    height: 84vh;
-    background-color: thistle;
   }
 
 }

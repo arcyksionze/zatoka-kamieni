@@ -4,7 +4,8 @@ body {
   font-size: 10px;
   font-family: Merriweather;
   color: #043a56;
-
+  
+  background-color: thistle;
 
 
 }
@@ -57,10 +58,7 @@ a {
 .calosc {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  width: 100vw;
-  height: 88vh;
-  background-color: thistle;
+  justify-content: space-betwee;
 }
 
 
@@ -97,18 +95,9 @@ a {
 }
 }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 300px) {
   .nav a {
     padding: 1.8rem 0.5rem;
-  }
-
-  .calosc {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 100vw;
-    height: 84vh;
-    background-color: thistle;
   }
 
 }
