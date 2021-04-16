@@ -49,11 +49,12 @@ a {
 .logo {
   margin-left: 1rem;
   flex-grow: 1; /* element logo został rozszerzony o pozostałą wielkość */
+  background-color: chartreuse;
   height: 80px;
 }
 
 .logo2 {
-  height: 80px;
+  he
 }
 
 .calosc {
